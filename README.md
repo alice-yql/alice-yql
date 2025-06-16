@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @alice-yql
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🌱trying my best
 
 <!---
 alice-yql/alice-yql is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
