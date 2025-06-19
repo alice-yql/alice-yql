@@ -1,4 +1,4 @@
-🌱trying my best
+🌱 trying my best!
 
 <!---
 alice-yql/alice-yql is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
