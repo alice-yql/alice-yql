@@ -1,4 +1,4 @@
-🫧 hi! i'm alice, a second year electrical engineering & management student at mcmaster university!
+🫧 hi! i'm alice, an electrical engineering & management student at mcmaster university!
 
 🌱 thanks for stopping by. i'm trying my best!
 
