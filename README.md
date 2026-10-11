@@ -1,4 +1,7 @@
-🫧 hi! i'm alice, an electrical engineering & management student at mcmaster university!
+🫧 hi! i'm alice, studying electrical engineering @ mcmaster university!
+
+☕ minor in business
+🌿 concurrent certificate in sustainability
 
 🌱 thanks for stopping by. i'm trying my best!
 
