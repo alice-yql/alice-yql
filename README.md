@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/alice-yql">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=95F0D9&fontSize=54&height=90&width=602&text=hi!%20i'm%20alice%20%3Ap" alt="hi! i&#39;m alice :p" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=6FDEC1&fontSize=54&height=90&width=602&text=hi!%20i'm%20alice%20%3Ap%20(she/her)" alt="hi! i&#39;m alice! (she/her) " />
   </a>
 </p>
 
@@ -8,15 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=745&height=44&lines=electrical%20engineering%20%40%20mcmaster%20university%20%F0%9F%92%BF;i%20do%20hardware" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+## 🚀 about me
 
 learning &amp; making to tech more sustainable and accessible!
 
-🌱 &nbsp;I'm currently learning **SQL!**  
-💬 &nbsp;Ask me about **react, html, css**  
-😄 &nbsp;Pronouns: **she/her**
+📎 &nbsp; pursuing a **minor in business**  
+🌱 &nbsp; concurrent certificate in sustainability   
 
-### 🛠️ Tech Stack
+### 🛠️ tech stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,7 +35,7 @@ learning &amp; making to tech more sustainable and accessible!
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
 </p>
 
-### 🔗 Connect With Me
+### 🔗 connect with me!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/alice-yq-liang/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -45,7 +44,7 @@ learning &amp; making to tech more sustainable and accessible!
   <a href="mailto:lianga37@mcmaster.ca"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+### 📊 gitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=alice-yql&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
@@ -56,12 +55,6 @@ learning &amp; making to tech more sustainable and accessible!
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=alice-yql&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
