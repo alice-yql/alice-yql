@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/alice-yql">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=hi!%20i'm%20alice%20%3Ap" alt="hi! i&#39;m alice :p" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=95F0D9&fontSize=54&height=90&width=602&text=hi!%20i'm%20alice%20%3Ap" alt="hi! i&#39;m alice :p" />
   </a>
 </p>
 
