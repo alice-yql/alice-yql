@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=745&height=44&lines=electrical%20engineering%20%40%20mcmaster%20university%20%F0%9F%92%BF;i%20do%20hardware" alt="Typing headlines" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=3000&color=ACEDF7&width=435&lines=electrical+engineering+%40+mcmaster+%F0%9F%92%BF;i+%3C3+art+and+hardware!+%F0%9F%91%BE" alt="Typing SVG" /></a>
 </p>
 
 ## 🚀 about me
