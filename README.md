@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/alice-yql">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=54A3B2FF&fontSize=54&height=90&width=602&text=hi!%20i'm%20alice%20%3Ap%20(she/her)" alt="hi! i&#39;m alice! (she/her) " />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=55&duration=3500&pause=10000&color=54A3B2&width=1000&height=100&lines=hi%2C+i'm+alice!+%28she%2Fher%29+%F0%9F%98%83%E2%9C%A8" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
